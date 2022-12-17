@@ -8,9 +8,9 @@ Each directory contains:
 3.  (Available only for testing datasets) the compressed structural data for vacancies (in VASP POSCAR format with .zip file)
 
 DATA.json architecture:  
-|
-|-- Forces
-|       |-- DFT_K4
+|  
+|-- Forces  
+|"&emsp;"|-- DFT_K4
 |       |-- DFT_K2 (testing sets only)
 |       |-- DFT_K1 (testing sets only)
 |
