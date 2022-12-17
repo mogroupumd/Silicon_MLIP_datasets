@@ -25,8 +25,8 @@ DATA.json architecture:
 |-- r_v: distances to vacancies (testing sets only)  
 |  
 |-- Vacancies: [index]_vacancies.POSCAR.vasp  
-&emsp;&emsp;(identified vacancy sites)
-&emsp;&emsp;(testing sets only)
+&emsp;&emsp;(identified vacancy sites)  
+&emsp;&emsp;(testing sets only)  
 
 # Citation
 If you use the datasets extensively, you may want to cite the following publication:
