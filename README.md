@@ -10,23 +10,23 @@ Each directory contains:
 DATA.json architecture:  
 |  
 |-- Forces  
-|"&emsp;"|-- DFT_K4
-|       |-- DFT_K2 (testing sets only)
-|       |-- DFT_K1 (testing sets only)
-|
-|-- Energies
-|       |-- DFT_K4
-|       |-- DFT_K2 (testing sets only)
-|
-|-- Structures: [index].POSCAR.vasp
-|
-|-- r: distances to migrating atoms (testing sets only)
-|
-|-- r_v: distances to vacancies (testing sets only)
-|
-|-- Vacancies: [index]_vacancies.POSCAR.vasp
-               (identified vacancy sites)
-               (testing sets only)
+|&emsp;|-- DFT_K4  
+|&emsp;|-- DFT_K2 (testing sets only)  
+|&emsp;|-- DFT_K1 (testing sets only)  
+|  
+|-- Energies  
+|&emsp;|-- DFT_K4  
+|&emsp;|-- DFT_K2 (testing sets only)  
+|  
+|-- Structures: [index].POSCAR.vasp  
+|  
+|-- r: distances to migrating atoms (testing sets only)  
+|  
+|-- r_v: distances to vacancies (testing sets only)  
+|  
+|-- Vacancies: [index]_vacancies.POSCAR.vasp  
+&emsp;&emsp;(identified vacancy sites)
+&emsp;&emsp;(testing sets only)
 
 # Citation
 If you use the datasets extensively, you may want to cite the following publication:
