@@ -1,2 +1,3 @@
-Structural data referred to
-  Zuo, Y. et al. Performance and Cost Assessment of Machine Learning Interatomic Potentials. J. Phys. Chem. A 124, 731–745 (2020).
+The structural data here are referred to the original publication:
+
+Zuo Yunxing, Chi Chen, Xiangguo Li, Zhi Deng, Yiming Chen, Jörg Behler, Gábor Csányi, et al. 2020. “Performance and Cost Assessment of Machine Learning Interatomic Potentials.” Journal of Physical Chemistry A 124 (4): 731–45. https://doi.org/10.1021/acs.jpca.9b08723.
