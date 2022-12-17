@@ -7,7 +7,7 @@ Each directory contains:
 2.  The corresponding energies, forces, distances to nearest migrating atoms, and distances to nearest vacancies data  (DATA.json)
 3.  (Available only for testing datasets) the compressed structural data for vacancies (in VASP POSCAR format with .zip file)
 
-DATA.json architecture:__
+DATA.json architecture:  
 |
 |-- Forces
 |       |-- DFT_K4
