@@ -30,4 +30,4 @@ DATA.json architecture:
 
 # Citation
 If you use the datasets extensively, you may want to cite the following publication:
-Y. Liu, Y. Mo, https://doi.org/10.48550/arXiv.2306.11639
+Y. Liu, X. He, Y. Mo, https://doi.org/10.48550/arXiv.2306.11639
