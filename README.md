@@ -1,4 +1,4 @@
-# Silicon_MLP_datasets
+# Silicon_MLIP_datasets
 Training, validation, and testing datasets for the publication "Discrepancies and the error evaluation metrics for machine learning interatomic potentials"
 
 # Data architecture
