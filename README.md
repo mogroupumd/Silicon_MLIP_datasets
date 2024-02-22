@@ -30,4 +30,4 @@ DATA.json architecture:
 
 # Citation
 If you use the datasets extensively, you may want to cite the following publication:
-Y. Liu, X. He, Y. Mo, https://doi.org/10.48550/arXiv.2306.11639
+Y. Liu, X. He, Y. Mo, Discrepancies and error evaluation metrics for machine learning interatomic potentials, Npj Comput. Mater. 9 (2023) 174. https://doi.org/10.1038/s41524-023-01123-3.
