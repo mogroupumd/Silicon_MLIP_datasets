@@ -29,5 +29,6 @@ DATA.json architecture:
 &emsp;&emsp;(testing sets only)  
 
 # Citation
-If you use the datasets extensively, you may want to cite the following publication:
-Y. Liu, X. He, Y. Mo, Discrepancies and error evaluation metrics for machine learning interatomic potentials, Npj Comput. Mater. 9 (2023) 174. https://doi.org/10.1038/s41524-023-01123-3.
+If you use the datasets extensively, you may want to cite the following publication:  
+Y. Liu, X. He, Y. Mo, Discrepancies and error evaluation metrics for machine learning interatomic potentials, Npj Comput. Mater. 9 (2023) 174.  
+https://doi.org/10.1038/s41524-023-01123-3.
